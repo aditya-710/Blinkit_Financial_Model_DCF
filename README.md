@@ -55,8 +55,6 @@ The model covers:
 
 ## Financial Dashboard
 
-![Dashboard](screenshots/dashboard.png)
-
 ### Dashboard Highlights
 
 This dashboard presents Blinkit's projected financial performance from FY2027 to FY2031.
@@ -74,8 +72,6 @@ The dashboard helps investors quickly understand Blinkit's expected growth traje
 
 ## Historical Financial Analysis
 
-![Historical Data](screenshots/historical_data.png)
-
 ### Historical Performance Analysis
 
 This section contains:
@@ -89,8 +85,6 @@ The analysis forms the foundation for future financial projections and valuation
 ---
 
 ## DCF Valuation Model
-
-![DCF Valuation](screenshots/dcf_valuation.png)
 
 ### Discounted Cash Flow (DCF) Analysis
 
@@ -109,8 +103,6 @@ The model suggests that the stock is undervalued relative to the assumed market 
 ---
 
 ## Ratio Analysis & Investment Recommendation
-
-![Ratio Analysis](screenshots/ratio_analysis.png)
 
 ### Financial Ratios & Investment Insights
 
