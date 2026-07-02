@@ -55,7 +55,7 @@ The model covers:
 
 ## Financial Dashboard
 
-![](./screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Dashboard Highlights
 
@@ -74,7 +74,7 @@ The dashboard helps investors quickly understand Blinkit's expected growth traje
 
 ## Historical Financial Analysis
 
-![](./screenshots/historical_data.png)
+![Historical Data](screenshots/historical_data.png)
 
 ### Historical Performance Analysis
 
@@ -90,7 +90,7 @@ The analysis forms the foundation for future financial projections and valuation
 
 ## DCF Valuation Model
 
-![](./screenshots/dcf_valuation.png)
+![DCF Valuation](screenshots/dcf_valuation.png)
 
 ### Discounted Cash Flow (DCF) Analysis
 
@@ -110,7 +110,7 @@ The model suggests that the stock is undervalued relative to the assumed market 
 
 ## Ratio Analysis & Investment Recommendation
 
-![](./screenshots/ratio_analysis.png)
+![Ratio Analysis](screenshots/ratio_analysis.png)
 
 ### Financial Ratios & Investment Insights
 
